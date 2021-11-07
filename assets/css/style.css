@@ -166,3 +166,9 @@ img {
    color: var(--first-color);
    transition: .3s;
 }
+
+
+/* ====== CHANGE BACKGROUND HEADER */
+.scroll-header {
+   box-shadow: 0 1px 12px hsla(var(--hue), var(--sat), 15%, 0.15);
+}
